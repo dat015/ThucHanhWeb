@@ -30,7 +30,8 @@ namespace TH_Project.Controllers
                 cHUDEs =await _db.CHUDEs.ToListAsync(),
                 nxb = await _db.NHAXUATBANs.ToListAsync()
             };
-          
+            ViewData["Chude"] = homeVM.cHUDEs;
+            ViewData["NXB"] = homeVM.nxb;
             return View(homeVM);
         }
 

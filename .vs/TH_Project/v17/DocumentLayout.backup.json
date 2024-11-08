@@ -1,66 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\TH_Project\\",
+  "WorkspaceRootPath": "D:\\CSharp\\TH_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|d:\\csharp\\th_project\\th_project\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|d:\\c#\\th_project\\th_project\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\CSharp\\TH_Project\\th_project\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\CSharp\\TH_Project\\th_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\CSharp\\TH_Project\\th_project\\views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\CSharp\\TH_Project\\th_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\CSharp\\TH_Project\\th_project\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\CSharp\\TH_Project\\th_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\viewmodel\\detailproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\viewmodel\\detailproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\data\\entities.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\data\\entities.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\data\\entities.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\data\\entities.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\data\\entities.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\data\\entities.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|D:\\C#\\TH_Project\\th_project\\data\\entities.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A86C59F6-22AB-4EB4-B1ED-2610E72606DC}|TH_Project\\TH_Project.csproj|solutionrelative:th_project\\data\\entities.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,47 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TH_Project\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TH_Project\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:05:22.332Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TH_Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TH_Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAIwIAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T08:47:17.862Z",
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "TH_Project\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "TH_Project\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:14:55.767Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TH_Project\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TH_Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T07:40:20.876Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\ViewModel\\HomeVM.cs",
-              "RelativeDocumentMoniker": "TH_Project\\ViewModel\\HomeVM.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\ViewModel\\HomeVM.cs",
-              "RelativeToolTip": "TH_Project\\ViewModel\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:45:30.863Z",
-              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -133,150 +88,80 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TH_Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TH_Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T10:01:54.811Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "TH_Project\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Controllers\\ProductController.cs",
               "RelativeToolTip": "TH_Project\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T07:58:08.439Z"
+              "WhenOpened": "2024-11-08T09:59:06.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "TH_Project\\Views\\Product\\ProductDetail.cshtml",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeToolTip": "TH_Project\\Views\\Product\\ProductDetail.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAiwFIAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "XacNhanDonHang.cshtml",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\GioHang\\XacNhanDonHang.cshtml",
+              "RelativeDocumentMoniker": "TH_Project\\Views\\GioHang\\XacNhanDonHang.cshtml",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\GioHang\\XacNhanDonHang.cshtml",
+              "RelativeToolTip": "TH_Project\\Views\\GioHang\\XacNhanDonHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T10:09:53.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DetailProductVM.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\ViewModel\\DetailProductVM.cs",
-              "RelativeDocumentMoniker": "TH_Project\\ViewModel\\DetailProductVM.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\ViewModel\\DetailProductVM.cs",
-              "RelativeToolTip": "TH_Project\\ViewModel\\DetailProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:44:38.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\ViewModel\\ProductVM.cs",
-              "RelativeDocumentMoniker": "TH_Project\\ViewModel\\ProductVM.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\ViewModel\\ProductVM.cs",
-              "RelativeToolTip": "TH_Project\\ViewModel\\ProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:36:58.712Z"
+              "WhenOpened": "2024-11-08T09:51:42.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "TH_Project\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "TH_Project\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Title": "DatHang.cshtml",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\GioHang\\DatHang.cshtml",
+              "RelativeDocumentMoniker": "TH_Project\\Views\\GioHang\\DatHang.cshtml",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\GioHang\\DatHang.cshtml",
+              "RelativeToolTip": "TH_Project\\Views\\GioHang\\DatHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T09:38:16.92Z"
+              "WhenOpened": "2024-11-08T09:37:26.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Web.config",
-              "RelativeDocumentMoniker": "TH_Project\\Web.config",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Web.config",
-              "RelativeToolTip": "TH_Project\\Web.config",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAD8AAAAMAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-01T07:50:53.284Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH_Project\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "TH_Project\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T09:13:04.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Entities.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.Designer.cs",
-              "RelativeDocumentMoniker": "TH_Project\\Data\\Entities.Designer.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.Designer.cs",
-              "RelativeToolTip": "TH_Project\\Data\\Entities.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:33:20.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Entities.edmx.diagram",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.edmx.diagram",
-              "RelativeDocumentMoniker": "TH_Project\\Data\\Entities.edmx.diagram",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.edmx.diagram",
-              "RelativeToolTip": "TH_Project\\Data\\Entities.edmx.diagram",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-01T08:33:28.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Views\\Web.config",
-              "RelativeDocumentMoniker": "TH_Project\\Views\\Web.config",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Views\\Web.config",
-              "RelativeToolTip": "TH_Project\\Views\\Web.config",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-01T08:33:34.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Entities.Context.tt",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.Context.tt",
-              "RelativeDocumentMoniker": "TH_Project\\Data\\Entities.Context.tt",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.Context.tt",
-              "RelativeToolTip": "TH_Project\\Data\\Entities.Context.tt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-01T08:33:08.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Entities.Context.cs",
-              "DocumentMoniker": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.Context.cs",
-              "RelativeDocumentMoniker": "TH_Project\\Data\\Entities.Context.cs",
-              "ToolTip": "D:\\C#\\TH_Project\\TH_Project\\Data\\Entities.Context.cs",
-              "RelativeToolTip": "TH_Project\\Data\\Entities.Context.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T07:54:19.799Z"
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TH_Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CSharp\\TH_Project\\TH_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TH_Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T09:06:07.565Z"
             }
           ]
         },

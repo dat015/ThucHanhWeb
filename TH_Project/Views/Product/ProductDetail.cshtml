@@ -31,53 +31,23 @@
 
 
 
-<section class="category_section layout_padding" style="display: flex;">
-    <div class="cate_pick">
-        <h3>Chủ đề sách</h3>
-        <ul class="category-list">
-            @foreach (var item in Model.cHUDEs)
-            {
-                <li class="category-item">
-                    @Html.ActionLink(item.TenChuDe, "Index", "Product", new { idCD = item.MaCD }, null)
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Model.SACH.Anhbia" alt="@Model.SACH.Tensach" class="img-fluid" />
+        </div>
+        <div class="col-md-6">
+            <h2>@Model.SACH.Tensach</h2>
+            <h4>Giá: @Model.SACH.Giaban</h4>
+            <p><strong>Mô tả:</strong> @Model.SACH.Mota</p>
 
-                </li>
-            }
-        </ul>
-
-        <h3>Nhà xuất bản</h3>
-        <ul class="category-list">
-            @foreach (var item in Model.nxb)
-            {
-                <li class="category-item">
-                    @Html.ActionLink(item.TenNXB, "Index", "Product", new { idNXB = item.MaNXB }, null)
-
-                </li>
-            }
-        </ul>
-    </div>
-
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-md-6">
-                <img src=@Model.SACH.Anhbia alt="@Model.SACH.Tensach" class="img-fluid" />
-            </div>
-            <div class="col-md-6">
-                <h2>@Model.SACH.Tensach</h2>
-                <h4>Giá: @Model.SACH.Giaban</h4>
-                <p><strong>Mô tả:</strong> @Model.SACH.Mota</p>
-
-                <button class="btn btn-primary mt-3" id="addToCart">Thêm vào giỏ hàng</button>
-            </div>
+            <div id="Datmua"> <a href="@Url.Action("ThemGioHang", "GioHang", new { @iMasach = @Model.SACH.Masach, @strURL = "Index" })" class="btn btn-primary mt-3"> Thêm vào giỏ hàng </a> </div>
         </div>
     </div>
-
-
-</section>
-
-<!-- catagory section -->
-<!-- end about section -->
-<!-- client section -->
+</div>
 
 
 
-    
+
+
+

@@ -30,30 +30,7 @@
 
 
 
-<section class="category_section layout_padding" style="display: flex;">
-    <div class="cate_pick">
-        <h3>Chủ đề sách</h3>
-        <ul class="category-list">
-            @foreach (var item in Model.cHUDEs)
-            {
-                <li class="category-item">
-                    @Html.ActionLink(item.TenChuDe, "Index", "Product", new { idCD = item.MaCD }, null)
 
-                </li>
-            }
-        </ul>
-
-        <h3>Nhà xuất bản</h3>
-        <ul class="category-list">
-            @foreach (var item in Model.nxb)
-            {
-                <li class="category-item">
-                    @Html.ActionLink(item.TenNXB, "Index", "Product", new { idNXB = item.MaNXB }, null)
-
-                </li>
-            }
-        </ul>
-    </div>
 
     <div class="container" style="text-align: center;">
         <h3 style="color: darkred">SÁCH MỚI</h3>
@@ -76,7 +53,6 @@
 
     </div>
 
-</section>
 
 <!-- catagory section -->
 <!-- end about section -->

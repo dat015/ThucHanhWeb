@@ -42,6 +42,8 @@ namespace TH_Project.Controllers
             {
                 products.SACHes = await _db.SACHes.ToListAsync(); 
             }
+            ViewData["Chude"] = products.cHUDEs;
+            ViewData["NXB"] = products.nxb;
 
             return View(products); 
         }
@@ -63,6 +65,8 @@ namespace TH_Project.Controllers
                 return HttpNotFound(); 
             }
 
+            ViewData["Chude"] = productVM.cHUDEs;
+            ViewData["NXB"] = productVM.nxb;
             return View(productVM);
         }
 
