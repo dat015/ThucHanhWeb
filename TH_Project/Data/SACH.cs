@@ -11,7 +11,8 @@ namespace TH_Project.Data
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class SACH
     {
         public SACH()
@@ -32,5 +33,7 @@ namespace TH_Project.Data
         public virtual ICollection<CHITIETDONTHANG> CHITIETDONTHANGs { get; set; }
         public virtual CHUDE CHUDE { get; set; }
         public virtual NHAXUATBAN NHAXUATBAN { get; set; }
+        [Timestamp]
+        public byte[] RowVersion { get; set; }
     }
 }

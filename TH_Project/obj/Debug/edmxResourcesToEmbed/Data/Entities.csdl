@@ -65,7 +65,7 @@
     <Property Name="Tensach" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Giaban" Type="Decimal" Precision="18" Scale="0" />
     <Property Name="Mota" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-    <Property Name="Anhbia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Anhbia" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
     <Property Name="Ngaycapnhat" Type="DateTime" Precision="3" />
     <Property Name="Soluongton" Type="Int32" />
     <Property Name="MaCD" Type="Int32" />
@@ -172,5 +172,14 @@
       <End Role="NHAXUATBAN" EntitySet="NHAXUATBANs" />
       <End Role="SACH" EntitySet="SACHes" />
     </AssociationSet>
+    <EntitySet Name="Admins" EntityType="QLBANSACHModel.Admin" />
   </EntityContainer>
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="UserAdmin" />
+    </Key>
+    <Property Name="UserAdmin" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="PassAdmin" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
 </Schema>

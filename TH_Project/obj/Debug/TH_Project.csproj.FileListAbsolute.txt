@@ -164,3 +164,10 @@ D:\CSharp\TH_Project\TH_Project\obj\Debug\TH_Project.csproj.CoreCompileInputs.ca
 D:\CSharp\TH_Project\TH_Project\obj\Debug\TH_Project.csproj.Up2Date
 D:\CSharp\TH_Project\TH_Project\obj\Debug\TH_Project.dll
 D:\CSharp\TH_Project\TH_Project\obj\Debug\TH_Project.pdb
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.dll
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.EntityFramework.dll
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.Mvc.dll
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.xml
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.EntityFramework.pdb
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.EntityFramework.xml
+D:\CSharp\TH_Project\TH_Project\bin\PagedList.Mvc.xml

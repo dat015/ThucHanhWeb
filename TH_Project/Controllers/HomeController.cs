@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 using TH_Project.ViewModel;
 
+using PagedList;
+using PagedList.Mvc;
+using PagedList.EntityFramework;
+
 
 namespace TH_Project.Controllers
 {
@@ -22,16 +26,21 @@ namespace TH_Project.Controllers
         {
         }
         [HttpGet]
-        public async  Task<ActionResult> Index()
+        public async Task<ActionResult> Index(int? page)
         {
+            int pageSize = 15;
+            int pageNumber = (page ?? 1);
+
             HomeVM homeVM = new HomeVM()
             {
-                SACHes = await _db.SACHes.ToListAsync(),
-                cHUDEs =await _db.CHUDEs.ToListAsync(),
+                SACHes = await _db.SACHes.OrderBy(s => s.Masach).ToPagedListAsync(pageNumber, pageSize),
+                cHUDEs = await _db.CHUDEs.ToListAsync(),
                 nxb = await _db.NHAXUATBANs.ToListAsync()
             };
+
             ViewData["Chude"] = homeVM.cHUDEs;
             ViewData["NXB"] = homeVM.nxb;
+
             return View(homeVM);
         }
 
